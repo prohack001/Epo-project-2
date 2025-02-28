@@ -52,6 +52,7 @@ button {
     border-radius: 8px;
     /* Bords arrondis */
 }
+
 #about h2 {
     color: #333;
     /* Couleur du titre */
@@ -64,4 +65,10 @@ button {
     /* Couleur du texte */
     line-height: 1.6;
     /* Hauteur de ligne pour améliorer la lisibilité */
+}
+
+#galerie img {
+    width: 100%;
+    max-width: 200px;
+    margin: 10px;
 }
