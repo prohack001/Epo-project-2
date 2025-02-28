@@ -29,3 +29,29 @@ button {
     margin: 4px 2px;
     cursor: pointer;
 }
+
+/* Styles pour la section À propos */
+#about {
+    background-color: #f0f0f0;
+    /* Couleur de fond légère */
+    padding: 20px;
+    /* Espacement interne */
+    margin-top: 20px;
+    /* Marge au-dessus de la section */
+    border-radius: 8px;
+    /* Bords arrondis */
+}
+
+#about h2 {
+    color: #333;
+    /* Couleur du titre */
+    margin-bottom: 10px;
+    /* Marge en dessous du titre */
+}
+
+#about p {
+    color: #666;
+    /* Couleur du texte */
+    line-height: 1.6;
+    /* Hauteur de ligne pour améliorer la lisibilité */
+}
